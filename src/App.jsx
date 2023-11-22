@@ -1,9 +1,10 @@
-import Newletter from "./components/newsletter.component";
+import Newletter from "./components/newsletter/newsletter.component";
 
 const App = () => {
   return(
     <div>
       <Newletter />
+
     </div>
   )
 }

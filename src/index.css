@@ -14,3 +14,7 @@ a {
   color: #646cff;
   text-decoration: inherit;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
